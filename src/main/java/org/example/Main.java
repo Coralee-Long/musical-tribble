@@ -7,5 +7,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("hallo von Group");
+        System.out.println("example with master branch (which is not main branch)");
+
     }
 }
