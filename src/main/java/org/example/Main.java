@@ -8,6 +8,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("hallo von Group");
         System.out.println("example with master branch (which is not main branch)");
-
+        System.out.println("Hallo");
     }
 }
